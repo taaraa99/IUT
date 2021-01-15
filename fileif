@@ -1,0 +1,17 @@
+
+int main()
+{
+
+int a=2;
+for (a; a<4 ; a=a+1)
+{ 
+}
+tt();
+
+}
+/*hello*/
+
+void tt (int v , int m)
+{
+int b=3;
+}
